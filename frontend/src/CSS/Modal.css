@@ -23,9 +23,10 @@
 
 .close-button {
   top: 0rem;
-  left: 19.4rem;
+  left: 23rem;
   background-color: transparent;
   border: none;
+  outline: none;
   font-size: 50px;
   cursor: pointer;
   position: fixed;
